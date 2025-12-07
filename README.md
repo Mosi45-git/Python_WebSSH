@@ -2,6 +2,11 @@
 
 该项目为Python_WebSSH半成品，核心功能已实现，但未对明显或潜在的问题进行精修
 
+## 运行实例图
+![仿真终端](889c5250a5fa2a3ce7139d3ca45555fa.png)
+![仿真终端](5a96c182f381333efaed08646363fcad.png)
+![仿真终端](ddc4a5972da6d23ad9e3af2de77e81b9.png)
+
 ## 简介
 
 一个基于Python Flask和WebSocket的Web SSH应用，支持多SSH连接管理和专业的虚拟终端仿真。
